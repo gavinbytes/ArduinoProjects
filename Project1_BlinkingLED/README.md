@@ -18,7 +18,7 @@ This project creates a blinking LED sequence to simulate a traffic light signal 
 - Used jumper wires and breadboard for connections.
 
 ## Code
-The Arduino sketch alternates Red and Yellow LEDs, each on for 1 second. See `blinkingLED.ino` for details.
+The Arduino sketch alternates Red and Yellow LEDs, each on for 1 second. See `code.ino` for details.
 
 ## Challenges and Lessons Learned
 - Learned about LED polarity and resistor values to prevent damage.
@@ -26,4 +26,4 @@ The Arduino sketch alternates Red and Yellow LEDs, each on for 1 second. See `bl
 - Troubleshot issues like LEDs not lighting (e.g., wrong resistor or connection errors).
 
 ## Circuit Diagram
-See `blinkingLEDs` for the breadboard layout.
+See `circuit_diagram.png` for the breadboard layout.
