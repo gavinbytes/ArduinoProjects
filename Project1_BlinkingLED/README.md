@@ -26,4 +26,4 @@ The Arduino sketch alternates Red and Yellow LEDs, each on for 1 second. See `co
 - Troubleshot issues like LEDs not lighting (e.g., wrong resistor or connection errors).
 
 ## Circuit Diagram
-See `circuit_diagram.png` for the breadboard layout.
+See `circuit_diagram.pdf` for the breadboard layout.
