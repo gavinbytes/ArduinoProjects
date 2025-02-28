@@ -16,7 +16,7 @@ Grok checks my GitHub repo after each project, spotting mistakes or tweaks for a
 
 ## My Progress (Feb 27, 2025)
 1. **Blinking LED Sequence** – Done (Circuit, Code, Testing complete; Docs pending).
-2. **Potentiometer-Controlled LED Brightness** – Not Started.
+2. **Controlling LED Brightness** – Done (Circuit, Code, Testing complete; Docs pending).
 3. **Button-Activated Buzzer** – Not Started.
 4. **Temperature Display with DHT11** – Not Started.
 5. **4x4 Keypad Password Lock** – Not Started.
